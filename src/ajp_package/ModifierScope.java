@@ -1,5 +1,4 @@
-package ajp_demo_package;
-import ajp_demo_package.Car;
+package ajp_package;
 public class ModifierScope{
 	public static void main(String args[]){
 		Car c = new Car();

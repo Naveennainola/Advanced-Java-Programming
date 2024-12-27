@@ -1,4 +1,4 @@
-package ajp_demo_package;
+package ajp_package;
 import java.util.Scanner;
 
 public class SwitchCase{
@@ -10,8 +10,6 @@ public class SwitchCase{
 		Scanner sc = new Scanner(System.in);
 		num = sc.nextInt();
 		System.out.println("Enter a character:");
-		char chr;
-		chr = sc.next(getChar);
 		switch(num){
 		
 			case 0:

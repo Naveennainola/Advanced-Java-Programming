@@ -1,6 +1,6 @@
 package ajp_package;
 
-public class ConstructoDemo {
+public class ConstructorDemo {
 		
 	public static void main(String args[])
 	{

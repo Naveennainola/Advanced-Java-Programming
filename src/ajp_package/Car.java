@@ -1,4 +1,4 @@
-package ajp_demo_package;
+package ajp_package;
 
 public class Car{
 	
